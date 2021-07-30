@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Github Pages codelab"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Here is some content 📃
